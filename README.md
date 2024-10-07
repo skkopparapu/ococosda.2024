@@ -10,4 +10,4 @@ Poster, Paper and Presentation
 **Acknowledgements:** Acknowledge several former \& current members of TCS Research have contributed to the development of speech analysis tools mentioned here
 
 **Date:** October 7, 2024  
-**Time:** 10:15 AM  (Adjust to your local time)
+**Time:** 14:57 AM  (IST) 
